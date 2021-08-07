@@ -1,0 +1,35 @@
+								// Aula 2 - Como chegamos até aqui?
+
+
+1970 - darpa cripu redes para proteger os dados dentro dos computadores de guerra, foi criada entao a arpanet controlada pelo governo e com universidades dentro desta redes, seu nome modificou varias vezes e ficou conhecida como internet
+
+1993 - surgiu a linguagem HTML, protocolo https e o WWW (word wide web), mosaic era o brownser
+
+1994 - foi fundada a netscape que criaram um navegador baseada na mosaic
+
+1995 - surgiu o JavaScript que ficou com esse nome por causa que a linguagem Java estava em alta, entao deixou de se chamar moocca e passou a se chamar JavaScript.
+
+1997 - netscape decidiu padronizar a linguagem, entao a ecma comecou padronizar JavaScript, surgindo entao o ecmaScript
+
+2002 - netscape faliu neste nome, dando origem a fundação mozzila
+
+2008 - google entrou na briga criando o seu proprio navegador trazendo com ele um motor enterno
+
+2009 - surgiu o motor V8 com codigo aberto, tanto ´q que um grupo pegou o motor dando origem a uma ferramenta em 2010
+
+2010 - nodeJs 
+
+=======================================================================================================================================================================
+
+Para conhecer outras técnologias e/ou biblioteca é legal aprender e entender o JavaScript
+
+
+
+
+
+
+
+
+
+
+obs*** pesquisar vue

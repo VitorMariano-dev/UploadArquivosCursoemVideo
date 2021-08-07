@@ -1,0 +1,25 @@
+*{
+    font: normal 14pt Ariel;
+}
+section{
+    background: purple;
+    color: white;
+    padding: 10px;
+    border: solid black 2px;
+}
+footer{
+    display: block;
+
+}
+#pfooter{
+    width: 250px;
+    border: solid black 2px;
+    text-align: left;
+}
+img{
+    border: solid black 2px;
+    width: 25px;
+    height: 25px;
+    padding: 1px;
+    text-align: right;
+}

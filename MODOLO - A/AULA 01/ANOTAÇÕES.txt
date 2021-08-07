@@ -1,0 +1,15 @@
+							    // AULA 01 - O QUE O JAVASCRIPT É CAPAZ DE FAZER?
+
+JavaScript faz de tudo
+	
+cliente x server
+
+computadores e celulares são clientes que utilizam serviços fornecidos por uma servidor;
+o servido fornece dados para os clientes;
+os clientes utilizam um servidor de diversas formas, os navegadores são umas destas formas de acessar o servidor;
+JavaScripts surgiu como tecnologia para clientes, mas podem ser tambem utilizada dentro do servidor. Mas ele surgiu com foco nos clientes;
+
+HTML = CONTEÚDO
+CSS = ESTILO
+JS = INTERAÇÃO
+
